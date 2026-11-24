@@ -39,3 +39,4 @@ System.out.println("First element: " + numbers[0]);
 System.out.println("\nAll arrays accessed safely!"); 
 }
 }
+
